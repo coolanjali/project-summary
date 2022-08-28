@@ -1,0 +1,63 @@
+h1 {
+    text-align: center;
+    color: blueviolet;
+    font-weight: 600;
+    padding-top: 40px;
+    border-radius: 50px;
+    font-style:oblique;
+    font-size: 30px;
+}
+
+form {
+    display: block;
+    text-align: center;
+    margin: auto;
+    padding-top: 50px;
+    font-size: 40px;
+}
+body{
+    background-color: rgb(193, 208, 170);
+    
+}
+.card-title{
+    font-size: 40px;
+}
+.card-subtitle{
+    font-size:100px ;
+
+}
+.card-body{
+    display:block;
+    margin:auto;
+    padding-left:50px;
+    background:100px;
+
+}
+.card{
+    display: block;
+    margin: auto;
+    margin:50px 100px 50px 100px;
+}
+
+.temperature {
+    padding: 150px;
+}
+
+.text-center {
+    padding-top: 50px;
+}
+#celsius{
+    font-size: 50px;
+}
+#day{
+    font-size: 40px;
+}
+#hour {
+    font-size: 40px;
+}
+#minute {
+    font-size: 40px;
+}
+#middle{
+    font-size: 40px;
+}
